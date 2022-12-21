@@ -1,8 +1,7 @@
 <h3 align="left">Hi there, I'm Sarah!</h3>
 
 - I'm a high schooler with a love for CS, Computational Biology, and Artificial Intelligence.
-- I've been coding for around 6 years and speak proficient Python, HTML/CSS/JS, NodeJS, Rust, along with a 
-little Java and C++.
+- I've been coding for around 6 years and speak proficient Python, HTML/CSS/JS, and NodeJS, along with a little Java, Rust, and C++.
 - Currently, I've been working with lupus biomarkers, genetic algorithms, and gene upregulation!
 
 <h4 align="left">
