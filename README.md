@@ -70,7 +70,8 @@
    <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
  </a>
  <a href="https://codepen.io/Rainy123">
-   <img width="50px" alt="Codepend Logo" src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico"/>
+   
+   [https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
  </a>
  
  ![CodeWars](https://www.codewars.com/users/html123/badges/large)
