@@ -70,7 +70,7 @@
    <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
  </a>
  <a href="https://codepen.io/Rainy123">
-   <img width="50px" alt="Codepen Logo" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+   <img height="50px" alt="Codepen Logo" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
  </a>
  
  ![CodeWars](https://www.codewars.com/users/html123/badges/large)
