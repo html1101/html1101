@@ -1,10 +1,10 @@
 <h3 align="left">Hi there, I'm Sarah!</h3>
 
-- ⚡ **Fun fact:** I'm currently a first-year CMU undergrad pursuing a major in Computational Biology, with an intended concentration in Software Engineering.
-- 🔭 **I’m currently working on** image analysis, game design, and protein folding problems.
-- 🌱 **I’m currently learning about** computer systems and performance optimization (15-213), genome and sequence alignment (02-251), and chemical systems (09-105)!
-- 👯 **I’d love to collaborate** on anything CB/CS-related! Shoot me an email if you are interested in collaborating on any upcoming projects/hackathons/competitions.
-- 💬 **Ask me about anything NodeJS** and I will probably talk your ear off :D
+- ⚡ Fun fact: I'm currently a first-year CMU undergrad pursuing a major in Computational Biology, with an intended concentration in Software Engineering.
+- 🔭 I’m currently working on image analysis, game design, and protein folding problems.
+- 🌱 I’m currently learning about computer systems and performance optimization (15-213), genome and sequence alignment (02-251), and chemical systems (09-105)!
+- 👯 I’d love to collaborate on anything CB/CS-related! Shoot me an email if you are interested in collaborating on any upcoming projects/hackathons/competitions.
+- 💬 Ask me about anything NodeJS and I will probably talk your ear off :D
 - 📫 How to reach me:
   - Work: [sarah.cross@haverford.com](mailto:sarah.cross@haverford.com)
   - School: [sarahcro@andrew.cmu.edu](mailto:sarahcro@andrew.cmu.edu)
