@@ -7,10 +7,6 @@
 <h4 align="left">
   GitHub Stats
 </h4>
-<p align="left">
- <img width="40%" src="https://raw.githubusercontent.com/html1101/github-stats/master/generated/overview.svg#gh-dark-mode-only"> 
- <img  width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=github-dark-blue" />
-</p>
 
 <p align="left">
   <img width="38%" src="https://raw.githubusercontent.com/html1101/github-stats/master/generated/languages.svg#gh-dark-mode-only">
@@ -35,6 +31,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
   
  
  <br>
@@ -43,7 +45,14 @@
  <br>
  <br>
  <a href="https://www.linkedin.com/in/sarah-cross-0740471b6/">
- <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+   <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+ </a>
+ <a href="https://codepen.io/Rainy123">
+   <img width="50px" alt="Codepend Logo" src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico"/>
+ </a>
+ 
+ ![CodeWars](https://www.codewars.com/users/html123/badges/large)
+ 
 </p>
 
 <!--
