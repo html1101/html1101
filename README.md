@@ -10,18 +10,32 @@
   - School: [sarahcro@andrew.cmu.edu](mailto:sarahcro@andrew.cmu.edu)
 - 😄 Pronouns: she/her
 
-<h4 align="left">
+<h3 align="left">
+  Recent Projects
+</h3>
+
+- [OptoPulse AI](https://github.com/html1101/OctoPulse-AI) (TartanHacks 24) - An all-in-one AI platform designed to evaluate and analyze optometric information, such as elevated dry eye risk and basic vision tests.
+- [Single Cell Perturbation Analysis](https://github.com/html1101/Single-Cell-Perturbation-Analysis) (21-241 Final Project) - Analyzed single cell drug-induced perturbations using Principal Component Analysis!
+- [Lupus Diagnosis](https://github.com/html1101/SLE-Diagnosis) (ISEF 23) - Model predicts lupus using gene expression profiles and AI with 99.13% testing accuracy.
+- [Camera Management Platform](https://ptzoptics.com/cmp) (NAB, ISE, NAMM) - Control your PTZOptics cameras through one convenient desktop application! Includes:
+  - PTZ camera control
+  - Auto-tracking for any G2 PTZOptics camera
+  - Advanced color correction
+  - Web API allows easy integration with other products (OBS, vMix, StreamDeck, etc)
+  - In-app documentation and guides
+
+<h3 align="left">
   GitHub Stats
-</h4>
+</h3>
 
 <p align="left">
   <img width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=html1101&layout=compact&theme=github_dark">
 </p>
 
-<br>
+<be>
 
 <p align="left">
- <b>Technologies</b>
+ <h3>Technologies</h3>
  <br>
 
  **Web + App Development**
@@ -62,7 +76,7 @@
   
   
  <br>
- <br>
+ 
  <b>Account Links</b>
  <br>
  <br>
