@@ -14,7 +14,7 @@
   Recent Projects
 </h3>
 
-- [OptoPulse AI](https://github.com/html1101/OctoPulse-AI) (TartanHacks 24) - An all-in-one AI platform designed to evaluate and analyze optometric information, such as elevated dry eye risk and basic vision tests.
+- [OptoPulse AI](https://github.com/html1101/OctoPulse-AI) (TartanHacks 24 top 15) - An all-in-one AI platform designed to evaluate and analyze optometric information, such as elevated dry eye risk and basic vision tests.
 - [Single Cell Perturbation Analysis](https://github.com/html1101/Single-Cell-Perturbation-Analysis) (21-241 Final Project) - Analyzed single cell drug-induced perturbations using Principal Component Analysis!
 - [Lupus Diagnosis](https://github.com/html1101/SLE-Diagnosis) (ISEF 23) - Model predicts lupus using gene expression profiles and AI with 99.13% testing accuracy (the gene the model determined as the 2nd most important in prediction, a year later, made headlines for [being the reason why more women have autoimmune diseases](https://arstechnica.com/science/2024/02/female-propensity-for-autoimmune-diseases-tied-to-x-chromosome-inactivation/)!).
 - [Camera Management Platform](https://ptzoptics.com/cmp) (NAB, ISE, NAMM) - Control your PTZOptics cameras through one convenient desktop application! Includes:
