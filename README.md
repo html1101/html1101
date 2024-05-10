@@ -14,6 +14,7 @@
   Recent Projects
 </h3>
 
+- [MAS Mechanism Analysis](https://github.com/html1101/RELI-Analysis) (paper [here](https://github.com/html1101/RELI-Analysis/blob/master/paper/Understanding_the_Mechanisms_Behind_Multiple_Autoimmune_Syndrome%20(1).pdf)) (02-251 Final Project) - Used the RELI (Regulatory Element Locus Intersection) algorithm to identify transcription factors (TFs) that bind a significant number of loci associated with type II and III MAS (multiple autoimmune syndrome) diseases, then cross-referenced with corresponding transcribed genes to analyze resulting expression levels.
 - [OptoPulse AI](https://github.com/html1101/OctoPulse-AI) (TartanHacks 24 top 15) - An all-in-one AI platform designed to evaluate and analyze optometric information, such as elevated dry eye risk and basic vision tests.
 - [Single Cell Perturbation Analysis](https://github.com/html1101/Single-Cell-Perturbation-Analysis) (21-241 Final Project) - Analyzed single cell drug-induced perturbations using Principal Component Analysis!
 - [Lupus Diagnosis](https://github.com/html1101/SLE-Diagnosis) (ISEF 23) - Model predicts lupus using gene expression profiles and AI with 99.13% testing accuracy (the gene the model determined as the 2nd most important in prediction, a year later, made headlines for [being the reason why more women have autoimmune diseases](https://arstechnica.com/science/2024/02/female-propensity-for-autoimmune-diseases-tied-to-x-chromosome-inactivation/)!).
