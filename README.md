@@ -30,7 +30,8 @@
 </h3>
 
 <p align="left">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=html1101&layout=compact&theme=github_dark">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 <be>
