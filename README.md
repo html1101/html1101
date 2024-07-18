@@ -7,7 +7,7 @@
 - 💬 Ask me about anything NodeJS and I will probably talk your ear off :D
 - 📫 How to reach me:
   - Work: [sarah.cross@haverford.com](mailto:sarah.cross@haverford.com)
-  - School: [sarahcro@andrew.cmu.edu](mailto:sarahcro@andrew.cmu.edu)
+  - School: [sarahcross@cmu.edu](mailto:sarahcross@cmu.edu)
 - 😄 Pronouns: she/her
 
 <h3 align="left">
