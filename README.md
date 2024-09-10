@@ -126,6 +126,8 @@ CSS                      3 repos             █░░░░░░░░░░�
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![Standard ML](https://img.shields.io/badge/Standard%20ML-f23218?style=for-the-badge&logoColor=f23218)
  
  **Other**
  <br>
