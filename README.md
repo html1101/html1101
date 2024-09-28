@@ -32,9 +32,9 @@
 <p align="left">
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,15 +63,14 @@ Sunday                   258 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████████████████░   97.64 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   1 hr 25 mins        ████████████████████████░   97.93 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +86,7 @@ C                        4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2024 18:45:29 UTC
+ Last Updated on 28/09/2024 18:43:14 UTC
 <!--END_SECTION:waka-->
 </p>
 
