@@ -31,6 +31,8 @@
 </h3>
 
 <p align="left">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2018%20mins-blue)
