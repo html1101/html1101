@@ -1,7 +1,7 @@
 <h3 align="left">Hi there, I'm Sarah!</h3>
 
 - ⚡ Fun fact: I'm currently a second-year CMU undergrad pursuing a major in Computational Biology, concentrating in Software Engineering.
-- 🔭 I’m currently working on primer analysis and transcription factor binding problems. I also work part-time for [PTZOptics](https://ptzoptics.com)!
+- 🔭 I’m currently working on primer analysis and transcription factor binding problems.
 - 🌱 I’m currently conducting independent research on autoimmune diseases, transcription factors, and drug targeting using AI!
 - 👯 I’d love to collaborate on anything CB/CS-related! Shoot me an email if you are interested in collaborating on any upcoming projects/hackathons/competitions.
 - 💬 Ask me about anything NodeJS and I will probably talk your ear off :D
