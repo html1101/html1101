@@ -6,7 +6,6 @@
 - 👯 I’d love to collaborate on anything CB/CS-related! Shoot me an email if you are interested in collaborating on any upcoming projects/hackathons/competitions.
 - 💬 Ask me about anything NodeJS and I will probably talk your ear off :D
 - 📫 How to reach me:
-  - Work: [sarah.cross@haverford.com](mailto:sarah.cross@haverford.com)
   - School: [sarahcross@cmu.edu](mailto:sarahcross@cmu.edu)
 - 😄 Pronouns: she/her
 
