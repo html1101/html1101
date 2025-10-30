@@ -1,8 +1,8 @@
 <h3 align="left">Hi there, I'm Sarah!</h3>
 
 - ⚡ Fun fact: I'm currently a second-year CMU undergrad pursuing a major in Computational Biology, concentrating in Software Engineering.
-- 🔭 I’m currently working on primer analysis and transcription factor binding problems.
-- 🌱 I’m currently conducting independent research on autoimmune diseases, transcription factors, and drug targeting using AI!
+- 🔭 I’m currently conducting independent research on autoimmune diseases, transcription factors, and drug targeting using AI.
+- 🌱 I’m also teaching! Currently working as a TA for Foundations of Software Engineering (17-313), and co-teaching Introduction to Web Development (98-506)!
 - 👯 I’d love to collaborate on anything CB/CS-related! Shoot me an email if you are interested in collaborating on any upcoming projects/hackathons/competitions.
 - 💬 Ask me about anything NodeJS and I will probably talk your ear off :D
 - 📫 How to reach me:
