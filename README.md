@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -86,7 +86,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:55:31 UTC
+ Last Updated on 05/01/2026 19:00:22 UTC
 <!--END_SECTION:waka-->
 </p>
 
