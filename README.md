@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%2052%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,15 +63,13 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Standard ML              12 hrs 29 mins      ████████████████████░░░░░   81.39 % 
-Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Markdown                 2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      ████████████████████░░░░░   81.39 % 
-Obsidian                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Obsidian                 2 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +85,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2026 19:16:20 UTC
+ Last Updated on 04/03/2026 19:16:25 UTC
 <!--END_SECTION:waka-->
 </p>
 
