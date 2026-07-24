@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C016%20hrs%204%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,18 +63,18 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Rust                     1 hr 30 mins        ████████████████░░░░░░░░░   63.27 % 
-C                        20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-YAML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 43 mins             ████████████████░░░░░░░░░   63.13 % 
+C                        20 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████░░░░░░░░░░░░   52.26 % 
-Claude Code              1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.74 % 
+Claude Code              38 mins             ██████████████░░░░░░░░░░░   55.92 % 
+VS Code                  30 mins             ███████████░░░░░░░░░░░░░░   44.08 % 
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:58:43 UTC
+ Last Updated on 24/07/2026 19:58:36 UTC
 <!--END_SECTION:waka-->
 </p>
 
