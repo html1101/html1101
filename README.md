@@ -34,7 +34,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C016%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C989%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -77,6 +79,29 @@ VS Code                  30 mins             ███████████�
 Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 56 mins (82.86%)
+
+✍️ 1,000 lines written by AI, 3 lines written by hand (99.7% AI-written)
+
+🔤 10,221,306 Input Tokens, 72,655 Output Tokens
+
+💵 $53.82 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+Sonnet                   1,073 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 234 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 1.48% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +115,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:47:50 UTC
+ Last Updated on 27/07/2026 20:07:46 UTC
 <!--END_SECTION:waka-->
 </p>
 
