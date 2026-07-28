@@ -34,28 +34,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C989%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C989%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-🌆 Daytime                389 commits         ███████████░░░░░░░░░░░░░░   43.61 % 
-🌃 Evening                275 commits         ████████░░░░░░░░░░░░░░░░░   30.83 % 
-🌙 Night                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                390 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
+🌃 Evening                275 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌙 Night                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Tuesday                  187 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Wednesday                154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Saturday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Monday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  188 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Wednesday                154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Saturday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 
 
@@ -65,41 +65,18 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Markdown                 43 mins             ████████████████░░░░░░░░░   63.13 % 
-C                        20 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Markdown                 46 mins             ████████████████░░░░░░░░░   64.91 % 
+C                        20 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Claude Code              38 mins             ██████████████░░░░░░░░░░░   55.92 % 
-VS Code                  30 mins             ███████████░░░░░░░░░░░░░░   44.08 % 
+Claude Code              38 mins             █████████████░░░░░░░░░░░░   53.22 % 
+VS Code                  33 mins             ████████████░░░░░░░░░░░░░   46.78 % 
 
 💻 Operating System: 
-Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 56 mins (82.86%)
-
-✍️ 1,000 lines written by AI, 3 lines written by hand (99.7% AI-written)
-
-🔤 10,221,306 Input Tokens, 72,655 Output Tokens
-
-💵 $53.82 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 4 AI Prompts
-
-Sonnet                   1,073 lines         █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.48% of changed lines were hand-edited
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:07:46 UTC
+ Last Updated on 28/07/2026 20:04:55 UTC
 <!--END_SECTION:waka-->
 </p>
 
