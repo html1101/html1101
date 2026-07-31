@@ -65,17 +65,14 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Markdown                 35 mins             ████████████████████████░   96.91 % 
-Rust                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              26 mins             ██████████████████░░░░░░░   71.14 % 
-VS Code                  10 mins             ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+VS Code                  2 mins              ███████████████████░░░░░░   76.60 % 
+Claude Code              0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +88,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:05:19 UTC
+ Last Updated on 31/07/2026 20:07:42 UTC
 <!--END_SECTION:waka-->
 </p>
 
