@@ -19,3 +19,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
