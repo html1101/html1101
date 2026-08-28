@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C996%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C996%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,18 +63,15 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Standard ML              1 hr 57 mins        ██████████████████░░░░░░░   72.06 % 
-YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Rust                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Standard ML              2 hrs 32 mins       ████████████████████████░   94.63 % 
+Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       ████████████████████████░   94.80 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +87,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:36:53 UTC
+ Last Updated on 28/08/2026 02:20:37 UTC
 <!--END_SECTION:waka-->
 </p>
 
