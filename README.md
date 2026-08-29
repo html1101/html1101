@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C999%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,18 +63,20 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Standard ML              2 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.34 % 
-Rust                     1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   35.82 % 
-YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Rust                     7 hrs               ███████████████░░░░░░░░░░   58.58 % 
+Standard ML              2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Makefile                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       ██████████████████████░░░   88.04 % 
-Claude Code              38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+VS Code                  6 hrs 3 mins        █████████████░░░░░░░░░░░░   50.73 % 
+Zed                      3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Claude Code              2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    5 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 01:54:17 UTC
+ Last Updated on 29/08/2026 21:08:28 UTC
 <!--END_SECTION:waka-->
 </p>
 
