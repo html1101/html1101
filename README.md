@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C007%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,20 +63,20 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Rust                     7 hrs               ███████████████░░░░░░░░░░   58.58 % 
-Standard ML              2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Makefile                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Rust                     7 hrs 1 min         █████████████░░░░░░░░░░░░   53.81 % 
+Standard ML              2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 3 mins        █████████████░░░░░░░░░░░░   50.73 % 
-Zed                      3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Claude Code              2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  6 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.87 % 
+Zed                      3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Claude Code              2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Obsidian                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 💻 Operating System: 
-Linux                    11 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:08:28 UTC
+ Last Updated on 30/08/2026 21:25:14 UTC
 <!--END_SECTION:waka-->
 </p>
 
