@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C050%20hrs%201%20min-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌆 Daytime                421 commits         ███████████░░░░░░░░░░░░░░   42.87 % 
-🌃 Evening                310 commits         ████████░░░░░░░░░░░░░░░░░   31.57 % 
-🌙 Night                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+🌞 Morning                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌆 Daytime                424 commits         ███████████░░░░░░░░░░░░░░   42.83 % 
+🌃 Evening                312 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌙 Night                  138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Tuesday                  200 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Wednesday                183 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Thursday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Friday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Sunday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Monday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Wednesday                185 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Thursday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Friday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Sunday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 
 
@@ -63,19 +63,20 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Standard ML              15 hrs 46 mins      █████████████████░░░░░░░░   69.62 % 
-C                        2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-C++                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Standard ML              15 hrs 38 mins      ██████████████░░░░░░░░░░░   55.39 % 
+C                        7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Markdown                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+C++                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 40 mins      ███████████████████████░░   91.26 % 
-Obsidian                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Zed                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+VS Code                  25 hrs 33 mins      ███████████████████████░░   90.54 % 
+Obsidian                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Zed                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Claude Code              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Linux                    22 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:07:28 UTC
+ Last Updated on 11/09/2026 21:12:09 UTC
 <!--END_SECTION:waka-->
 </p>
 
