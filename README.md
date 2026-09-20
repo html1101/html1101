@@ -63,20 +63,20 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        22 hrs 30 mins      ██████████████████░░░░░░░   70.34 % 
-Standard ML              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Markdown                 3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-C++                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Rust                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+C                        21 hrs 49 mins      █████████████████░░░░░░░░   69.75 % 
+Standard ML              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Markdown                 3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Rust                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Zed                      19 hrs 40 mins      ███████████████░░░░░░░░░░   61.47 % 
-VS Code                  6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Obsidian                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Claude Code              2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Zed                      19 hrs 40 mins      ████████████████░░░░░░░░░   62.86 % 
+VS Code                  5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Obsidian                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Claude Code              2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 💻 Operating System: 
-Linux                    32 hrs              █████████████████████████   100.00 % 
+Linux                    31 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:59:01 UTC
+ Last Updated on 20/09/2026 21:02:49 UTC
 <!--END_SECTION:waka-->
 </p>
 
