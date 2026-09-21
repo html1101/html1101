@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C089%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C094%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-🌆 Daytime                432 commits         ███████████░░░░░░░░░░░░░░   42.77 % 
-🌃 Evening                317 commits         ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌙 Night                  143 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+🌆 Daytime                435 commits         ███████████░░░░░░░░░░░░░░   42.77 % 
+🌃 Evening                319 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌙 Night                  145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Tuesday                  206 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Wednesday                192 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Thursday                 84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Friday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tuesday                  208 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Wednesday                194 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Thursday                 84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Sunday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 ```
 
 
@@ -63,20 +63,20 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        21 hrs 49 mins      █████████████████░░░░░░░░   69.75 % 
-Standard ML              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Markdown                 3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Rust                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C                        21 hrs 49 mins      ███████████████░░░░░░░░░░   60.74 % 
+C++                      5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Standard ML              4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Markdown                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Rust                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Zed                      19 hrs 40 mins      ████████████████░░░░░░░░░   62.86 % 
-VS Code                  5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Obsidian                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Claude Code              2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Zed                      20 hrs              ██████████████░░░░░░░░░░░   55.66 % 
+VS Code                  10 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Obsidian                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Claude Code              2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 💻 Operating System: 
-Linux                    31 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:02:49 UTC
+ Last Updated on 21/09/2026 22:11:43 UTC
 <!--END_SECTION:waka-->
 </p>
 
