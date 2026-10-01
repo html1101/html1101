@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C120%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C123%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌆 Daytime                461 commits         ███████████░░░░░░░░░░░░░░   43.08 % 
-🌃 Evening                338 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
-🌙 Night                  147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+🌞 Morning                124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌆 Daytime                461 commits         ███████████░░░░░░░░░░░░░░   43.04 % 
+🌃 Evening                339 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌙 Night                  147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Tuesday                  228 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Wednesday                203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Monday                   180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Tuesday                  228 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Wednesday                204 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Sunday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 
@@ -63,19 +63,19 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Python                   6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.82 % 
-Standard ML              5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Markdown                 3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-C                        2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Standard ML              5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+Markdown                 5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Zed                      9 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.68 % 
-VS Code                  7 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
-Obsidian                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Zed                      9 hrs 50 mins       ████████████████░░░░░░░░░   62.06 % 
+Obsidian                 3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+VS Code                  2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 
 💻 Operating System: 
-Linux                    19 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:33:35 UTC
+ Last Updated on 01/10/2026 22:54:29 UTC
 <!--END_SECTION:waka-->
 </p>
 
