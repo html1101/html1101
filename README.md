@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C129%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C130%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,19 +63,19 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Markdown                 6 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.33 % 
-Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Standard ML              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-C                        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Text                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Markdown                 5 hrs 52 mins       █████████████░░░░░░░░░░░░   53.26 % 
+Python                   1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+C                        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Text                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.51 % 
-VS Code                  4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
-Zed                      2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Obsidian                 6 hrs 10 mins       ██████████████░░░░░░░░░░░   55.89 % 
+VS Code                  4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
+Zed                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 💻 Operating System: 
-Linux                    13 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:48:27 UTC
+ Last Updated on 07/10/2026 23:19:23 UTC
 <!--END_SECTION:waka-->
 </p>
 
