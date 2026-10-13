@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C148%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%202%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-🌆 Daytime                466 commits         ███████████░░░░░░░░░░░░░░   42.67 % 
-🌃 Evening                345 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
-🌙 Night                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌞 Morning                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌆 Daytime                472 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
+🌃 Evening                345 commits         ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌙 Night                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Friday                   177 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Saturday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Tuesday                  238 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Friday                   177 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
@@ -63,19 +63,19 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        13 hrs 41 mins      █████████████████░░░░░░░░   66.82 % 
-Python                   3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        13 hrs 42 mins      ███████████████░░░░░░░░░░   60.98 % 
+Python                   6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 50 mins      ██████████████████████░░░   87.04 % 
-Obsidian                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  21 hrs 25 mins      ████████████████████████░   95.32 % 
+Obsidian                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Linux                    20 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:59:12 UTC
+ Last Updated on 13/10/2026 23:05:14 UTC
 <!--END_SECTION:waka-->
 </p>
 
