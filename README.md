@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C138%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C148%20hrs%2025%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   42.90 % 
-🌃 Evening                342 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌙 Night                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌆 Daytime                466 commits         ███████████░░░░░░░░░░░░░░   42.67 % 
+🌃 Evening                345 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌙 Night                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Tuesday                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Wednesday                207 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Friday                   177 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Saturday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 
 
@@ -63,16 +63,19 @@ Sunday                   92 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        7 hrs 20 mins       ████████████████░░░░░░░░░   62.67 % 
-Markdown                 4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C                        13 hrs 41 mins      █████████████████░░░░░░░░   66.82 % 
+Python                   3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████░░░░░░░░   68.62 % 
-Obsidian                 3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
+VS Code                  17 hrs 50 mins      ██████████████████████░░░   87.04 % 
+Obsidian                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    11 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,7 +91,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:21:02 UTC
+ Last Updated on 13/10/2026 00:59:12 UTC
 <!--END_SECTION:waka-->
 </p>
 
