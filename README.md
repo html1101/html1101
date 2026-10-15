@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2044%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,19 +63,19 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        17 hrs 45 mins      █████████████████░░░░░░░░   67.82 % 
-Python                   7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+C                        15 hrs 46 mins      ████████████████░░░░░░░░░   64.39 % 
+Python                   7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 12 mins      ████████████████████████░   96.27 % 
-Copilot CLI              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Obsidian                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VS Code                  23 hrs 12 mins      ████████████████████████░   94.71 % 
+Copilot CLI              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Obsidian                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-Linux                    26 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:56:50 UTC
+ Last Updated on 15/10/2026 21:41:00 UTC
 <!--END_SECTION:waka-->
 </p>
 
