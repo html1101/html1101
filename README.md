@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                478 commits         ███████████░░░░░░░░░░░░░░   43.06 % 
-🌃 Evening                346 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌙 Night                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌞 Morning                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+🌆 Daytime                478 commits         ███████████░░░░░░░░░░░░░░   43.02 % 
+🌃 Evening                347 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌙 Night                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Tuesday                  246 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Wednesday                209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Friday                   177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Tuesday                  246 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Wednesday                209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Friday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
@@ -63,35 +63,35 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        15 hrs 21 mins      ████████████████░░░░░░░░░   64.46 % 
-Python                   7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+C                        13 hrs 9 mins       ██████████████░░░░░░░░░░░   57.66 % 
+Python                   7 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 46 mins      ████████████████████████░   95.55 % 
-Copilot CLI              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Obsidian                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+VS Code                  21 hrs 45 mins      ████████████████████████░   95.35 % 
+Copilot CLI              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Obsidian                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Linux                    23 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
 
 
- Last Updated on 16/10/2026 21:34:12 UTC
+ Last Updated on 17/10/2026 20:52:51 UTC
 <!--END_SECTION:waka-->
 </p>
 
