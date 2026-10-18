@@ -63,19 +63,19 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        13 hrs 9 mins       ██████████████░░░░░░░░░░░   57.66 % 
-Python                   7 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C                        10 hrs 27 mins      █████████████░░░░░░░░░░░░   53.16 % 
+Python                   7 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
+Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 45 mins      ████████████████████████░   95.35 % 
-Copilot CLI              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Obsidian                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+VS Code                  18 hrs 36 mins      ████████████████████████░   94.60 % 
+Copilot CLI              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Obsidian                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Linux                    22 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:52:51 UTC
+ Last Updated on 18/10/2026 21:01:47 UTC
 <!--END_SECTION:waka-->
 </p>
 
