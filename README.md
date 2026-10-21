@@ -39,21 +39,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌆 Daytime                484 commits         ███████████░░░░░░░░░░░░░░   42.98 % 
-🌃 Evening                351 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌙 Night                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌞 Morning                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌆 Daytime                487 commits         ███████████░░░░░░░░░░░░░░   42.98 % 
+🌃 Evening                353 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌙 Night                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  250 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Wednesday                213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Friday                   180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Tuesday                  252 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Wednesday                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -63,19 +63,18 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-C                        4 hrs 5 mins        █████████████████░░░░░░░░   67.39 % 
-Markdown                 1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 1 hr 22 mins        ███████████████████░░░░░░   76.85 % 
+Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       ██████████████████████░░░   86.21 % 
-Copilot CLI              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Obsidian                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+VS Code                  1 hr 27 mins        █████████████████████░░░░   82.11 % 
+Obsidian                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 💻 Operating System: 
-Linux                    6 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +90,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:51:50 UTC
+ Last Updated on 21/10/2026 21:58:07 UTC
 <!--END_SECTION:waka-->
 </p>
 
