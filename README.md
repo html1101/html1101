@@ -63,18 +63,17 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Markdown                 1 hr 22 mins        ███████████████████░░░░░░   76.85 % 
-Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Markdown                 1 hr 2 mins         ███████████████████░░░░░░   74.62 % 
+Python                   18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████░░░░   82.11 % 
-Obsidian                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +89,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 21:58:07 UTC
+ Last Updated on 22/10/2026 21:55:34 UTC
 <!--END_SECTION:waka-->
 </p>
 
