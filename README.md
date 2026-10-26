@@ -34,26 +34,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-🌆 Daytime                487 commits         ███████████░░░░░░░░░░░░░░   42.98 % 
-🌃 Evening                353 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
-🌙 Night                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌞 Morning                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌆 Daytime                487 commits         ███████████░░░░░░░░░░░░░░   42.95 % 
+🌃 Evening                353 commits         ████████░░░░░░░░░░░░░░░░░   31.13 % 
+🌙 Night                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Tuesday                  252 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Wednesday                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Monday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Tuesday                  252 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Wednesday                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 ```
 
 
@@ -63,14 +63,15 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Markdown                 16 mins             ████████████████████████░   95.85 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 16 mins             ████████████░░░░░░░░░░░░░   48.97 % 
+C                        16 mins             ████████████░░░░░░░░░░░░░   48.92 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Linux                    33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +87,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 21:08:59 UTC
+ Last Updated on 26/10/2026 22:53:59 UTC
 <!--END_SECTION:waka-->
 </p>
 
