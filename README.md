@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=html1101&theme=tokyonight" alt="mystreak"/>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C163%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -63,15 +63,18 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Atikokan
 
 💬 Programming Languages: 
-Markdown                 16 mins             ████████████░░░░░░░░░░░░░   48.97 % 
-C                        16 mins             ████████████░░░░░░░░░░░░░   48.92 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Standard ML              2 hrs 39 mins       █████████████░░░░░░░░░░░░   53.17 % 
+C                        1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   39.50 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 51 mins       ████████████████████████░   97.12 % 
+Copilot CLI              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+Linux                    5 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +90,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:53:59 UTC
+ Last Updated on 27/10/2026 22:34:02 UTC
 <!--END_SECTION:waka-->
 </p>
 
